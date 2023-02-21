@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+#container-top{
+    max-width: 400px;
+    height: 200px;
+    background-color:blueviolet;
+    margin:100px auto;
+}
+#converter{
+    padding-left: 60px;
+    display: flex;
+}
+p{
+   padding: 40px;
+   font-size: 19px;
+}
+#answer{
+    max-width: 400px;
+    height:35px;
+    background-color: cadetblue;
+    margin: 100px auto;
+    margin-top: -100px;
+}
+body{
+    background-color:rgb(171, 97, 153);
+    margin: auto;
+}
+.fontx{
+    font-size:13px;
+    text-align:center;
+}
+.visible
+{
+   visibility: hidden;
+}
+footer{
+    text-align: center;
+}
